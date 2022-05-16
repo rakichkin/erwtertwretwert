@@ -1,0 +1,16 @@
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\bin\Debug\net5.0\ageDetermination.exe
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\bin\Debug\net5.0\ageDetermination.deps.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\bin\Debug\net5.0\ageDetermination.runtimeconfig.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\bin\Debug\net5.0\ageDetermination.runtimeconfig.dev.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\bin\Debug\net5.0\ageDetermination.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\bin\Debug\net5.0\ageDetermination.pdb
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.csproj.AssemblyReference.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.AssemblyInfoInputs.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.AssemblyInfo.cs
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.csproj.CoreCompileInputs.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\refint\ageDetermination.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.pdb
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ageDetermination.genruntimeconfig.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\homework.ageDetermination.prj\obj\Debug\net5.0\ref\ageDetermination.dll

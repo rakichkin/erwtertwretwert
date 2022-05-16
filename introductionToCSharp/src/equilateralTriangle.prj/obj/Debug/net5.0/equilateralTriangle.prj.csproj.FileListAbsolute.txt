@@ -1,0 +1,16 @@
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\bin\Debug\net5.0\equilateralTriangle.prj.exe
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\bin\Debug\net5.0\equilateralTriangle.prj.deps.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\bin\Debug\net5.0\equilateralTriangle.prj.runtimeconfig.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\bin\Debug\net5.0\equilateralTriangle.prj.runtimeconfig.dev.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\bin\Debug\net5.0\equilateralTriangle.prj.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\bin\Debug\net5.0\equilateralTriangle.prj.pdb
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.csproj.AssemblyReference.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.AssemblyInfoInputs.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.AssemblyInfo.cs
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.csproj.CoreCompileInputs.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\refint\equilateralTriangle.prj.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.pdb
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\equilateralTriangle.prj.genruntimeconfig.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\equilateralTriangle.prj\obj\Debug\net5.0\ref\equilateralTriangle.prj.dll

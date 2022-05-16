@@ -1,0 +1,32 @@
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.exe
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.deps.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.runtimeconfig.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.runtimeconfig.dev.json
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.pdb
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.csproj.AssemblyReference.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.AssemblyInfoInputs.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.AssemblyInfo.cs
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.csproj.CoreCompileInputs.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\refint\numbersInArray.prj.dll
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.pdb
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.genruntimeconfig.cache
+C:\Users\Igoryaha\OneDrive\Учёба\ML Start\Занятие 5 Введение в C#\homework\src\numbersInArray.prj\obj\Debug\net5.0\ref\numbersInArray.prj.dll
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.exe
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.deps.json
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.runtimeconfig.json
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.runtimeconfig.dev.json
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.dll
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\bin\Debug\net5.0\numbersInArray.prj.pdb
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.csproj.AssemblyReference.cache
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.AssemblyInfoInputs.cache
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.AssemblyInfo.cs
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.csproj.CoreCompileInputs.cache
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.dll
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\refint\numbersInArray.prj.dll
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.pdb
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\numbersInArray.prj.genruntimeconfig.cache
+C:\Users\rakic\OneDrive\Учёба\ML Start\Занятие 5 Введение в C# (18 мая)\homework\src\numbersInArray.prj\obj\Debug\net5.0\ref\numbersInArray.prj.dll
